@@ -1,0 +1,7 @@
+{
+  "name": "checkpointguard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
